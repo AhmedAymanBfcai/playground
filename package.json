@@ -9,6 +9,7 @@
   "author": "@AHMED_BFCAI_20",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "webworker-threads": "*"
   }
 }
